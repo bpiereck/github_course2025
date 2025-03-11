@@ -13,3 +13,5 @@ New line ...
 more info
 
 A MASSIVE change to the README file
+
+Arthur Apostel
