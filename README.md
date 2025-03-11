@@ -13,3 +13,5 @@ New line ...
 more info
 
 Amazing changes
+
+Adrien Grondin
