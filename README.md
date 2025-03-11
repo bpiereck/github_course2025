@@ -8,4 +8,4 @@ This material is part of a 2 days course on how to use **Git** and ***GitHub***.
 
 3. The intro course is taught by Bruna Piereck, ***hooorrraaaaayyyy!!!!!!***
 
-New line ...
+ 4. Created a new branch to test (BY Matheus)
