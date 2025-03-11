@@ -10,4 +10,5 @@ This material is part of a 2 days course on how to use **Git** and ***GitHub***.
 
 New line ...
 
-more info
+more info  
+my name here  
